@@ -1,10 +1,10 @@
 # CSE-437-PATTERN-RECOGNITION
 This is a repository based on the course material of Pattern Recognition at University of Asia Pacific.
 
-COURSE OUTLINE
+**COURSE OUTLINE
 CSE 437: PATTERN RECOGNITION
 DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
-UNIVERSITY OF ASIA PACIFIC
+UNIVERSITY OF ASIA PACIFIC**
 
 1.	PATTERN RECOGNITION INTRODUCTION AND MACHINE LEARNING.
 2.	TYPES OF PATTERN RECOGNITION ALGORITHMS.
@@ -25,61 +25,36 @@ UNIVERSITY OF ASIA PACIFIC
 17.	SUPPORT VECTOR MACHINE.
 
   I.	Support Vector points, margin, width, hyper-plane.
-  
-  II.	Inputs and Outputs of Support Vector Machine.
-  
-  III.	Deduction of the width of the margin.
-  
-  IV.	Margin of Separation, optimal hyper-plane.
-  
-  V.	Formulation of quadratic programming problem of Support Vector machine.
-  
-  VI.	Lagrange Multiplier (example and theory).
-  
-  VII.	The properties of solution p of Lagrange multipliers solution.
-  
-  VIII.	Determination of the value of w using Lagrange Multipliers method.
-  
-  IX.	Conversion from primal problem to dual problem.
-  
-  X.	How to classify an unknown point with equations.
-  
-  XI.	Idea of Kernel and how to apply it.
-  
+  II.	Inputs and Outputs of Support Vector Machine. 
+  III.	Deduction of the width of the margin.  
+  IV.	Margin of Separation, optimal hyper-plane.  
+  V.	Formulation of quadratic programming problem of Support Vector machine.  
+  VI.	Lagrange Multiplier (example and theory).  
+  VII.	The properties of solution p of Lagrange multipliers solution.  
+  VIII.	Determination of the value of w using Lagrange Multipliers method.  
+  IX.	Conversion from primal problem to dual problem.  
+  X.	How to classify an unknown point with equations.  
+  XI.	Idea of Kernel and how to apply it. 
   XII.	Kernel types.
   
 18.	ARTIFICIAL NEURAL NETWORK.
 
-  I.	STRUCTURE OF HUMAN NEURON.
-  
-  II.	HOW ANN CAN MIMIC A SINGLE HUMAN NEURON.
-  
-  III.	MACCULLOCH AND PITTS MODEL OF A SINGLE NEURON.
-  
-  IV.	PERCEPTRON MODEL OF A SINGLE NEURON.
-  
-  V.	SINGLE NEURON PERCEPTRON LEARNING ALGORITHM.
-  
-  VI.	PERCEPTRON ACTIVATION FUNCTIONS.
-  
+  I.	STRUCTURE OF HUMAN NEURON.  
+  II.	HOW ANN CAN MIMIC A SINGLE HUMAN NEURON.  
+  III.	MACCULLOCH AND PITTS MODEL OF A SINGLE NEURON.  
+  IV.	PERCEPTRON MODEL OF A SINGLE NEURON.  
+  V.	SINGLE NEURON PERCEPTRON LEARNING ALGORITHM. 
+  VI.	PERCEPTRON ACTIVATION FUNCTIONS. 
   VII.	SINGLE AND MULTILAYER NEURAL NETWORK.
-  
-  VIII.	SIGNIFICANCE OF HIDDEN LAYER.
-  
-  IX.	MULTILAYER PERCEPTRON LEARNING ALGORITHM.
-  
-  X.	LOGIC GATE IMPLEMENTATION WITH ANN (NOT, AND, OR, XOR, XNOR).
-  
-  XI.	BACKPROPAGATION LEARNING ALGORITHM.
-  
-  XII.	DEEP NEURAL NETWORK INTRODUCTION.
-  
-  XIII.	CONVOLUTIONAL NEURAL NETWORK.
-  
+  VIII.	SIGNIFICANCE OF HIDDEN LAYER.  
+  IX.	MULTILAYER PERCEPTRON LEARNING ALGORITHM.  
+  X.	LOGIC GATE IMPLEMENTATION WITH ANN (NOT, AND, OR, XOR, XNOR). 
+  XI.	BACKPROPAGATION LEARNING ALGORITHM.  
+  XII.	DEEP NEURAL NETWORK INTRODUCTION.  
+  XIII.	CONVOLUTIONAL NEURAL NETWORK.  
   XIV.	RECURRENT NEURAL NETWORK AND LONG SHORT-TERM MOMORY.
   
 19.	PRINCIPLE COMPONENT ANALYSIS.
 20.	ROC AND AUC.
 21.	HIDDEN MARKOV MODEL.
 22.	F1 SCORE, PRECISION AND RECALL.
-
