@@ -23,7 +23,7 @@ UNIVERSITY OF ASIA PACIFIC**
 15.	DECISION TREE AND RANDOM FORREST.
 16.	REINFORCEMENT LEARNING.
 17.	SUPPORT VECTOR MACHINE.
-_
+
       I.	Support Vector points, margin, width, hyper-plane.
       II.	Inputs and Outputs of Support Vector Machine. 
       III.	Deduction of the width of the margin.  
@@ -35,11 +35,11 @@ _
       IX.	Conversion from primal problem to dual problem.  
       X.	How to classify an unknown point with equations.  
       XI.	Idea of Kernel and how to apply it. 
-      XII.	Kernel types._
+      XII.	Kernel types.
   
 18.	ARTIFICIAL NEURAL NETWORK.
 
-_      I.	STRUCTURE OF HUMAN NEURON.  
+      I.	STRUCTURE OF HUMAN NEURON.  
       II.	HOW ANN CAN MIMIC A SINGLE HUMAN NEURON.  
       III.	MACCULLOCH AND PITTS MODEL OF A SINGLE NEURON.  
       IV.	PERCEPTRON MODEL OF A SINGLE NEURON.  
@@ -52,7 +52,7 @@ _      I.	STRUCTURE OF HUMAN NEURON.
       XI.	BACKPROPAGATION LEARNING ALGORITHM.  
       XII.	DEEP NEURAL NETWORK INTRODUCTION.  
       XIII.	CONVOLUTIONAL NEURAL NETWORK.  
-      XIV.	RECURRENT NEURAL NETWORK AND LONG SHORT-TERM MOMORY._
+      XIV.	RECURRENT NEURAL NETWORK AND LONG SHORT-TERM MOMORY.
   
 19.	PRINCIPLE COMPONENT ANALYSIS.
 20.	ROC AND AUC.
