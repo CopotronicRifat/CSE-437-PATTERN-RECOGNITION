@@ -23,36 +23,36 @@ UNIVERSITY OF ASIA PACIFIC**
 15.	DECISION TREE AND RANDOM FORREST.
 16.	REINFORCEMENT LEARNING.
 17.	SUPPORT VECTOR MACHINE.
-
-  I.	Support Vector points, margin, width, hyper-plane.
-  II.	Inputs and Outputs of Support Vector Machine. 
-  III.	Deduction of the width of the margin.  
-  IV.	Margin of Separation, optimal hyper-plane.  
-  V.	Formulation of quadratic programming problem of Support Vector machine.  
-  VI.	Lagrange Multiplier (example and theory).  
-  VII.	The properties of solution p of Lagrange multipliers solution.  
-  VIII.	Determination of the value of w using Lagrange Multipliers method.  
-  IX.	Conversion from primal problem to dual problem.  
-  X.	How to classify an unknown point with equations.  
-  XI.	Idea of Kernel and how to apply it. 
-  XII.	Kernel types.
+_
+      I.	Support Vector points, margin, width, hyper-plane.
+      II.	Inputs and Outputs of Support Vector Machine. 
+      III.	Deduction of the width of the margin.  
+      IV.	Margin of Separation, optimal hyper-plane.  
+      V.	Formulation of quadratic programming problem of Support Vector machine.  
+      VI.	Lagrange Multiplier (example and theory).  
+      VII.	The properties of solution p of Lagrange multipliers solution.  
+      VIII.	Determination of the value of w using Lagrange Multipliers method.  
+      IX.	Conversion from primal problem to dual problem.  
+      X.	How to classify an unknown point with equations.  
+      XI.	Idea of Kernel and how to apply it. 
+      XII.	Kernel types._
   
 18.	ARTIFICIAL NEURAL NETWORK.
 
-  I.	STRUCTURE OF HUMAN NEURON.  
-  II.	HOW ANN CAN MIMIC A SINGLE HUMAN NEURON.  
-  III.	MACCULLOCH AND PITTS MODEL OF A SINGLE NEURON.  
-  IV.	PERCEPTRON MODEL OF A SINGLE NEURON.  
-  V.	SINGLE NEURON PERCEPTRON LEARNING ALGORITHM. 
-  VI.	PERCEPTRON ACTIVATION FUNCTIONS. 
-  VII.	SINGLE AND MULTILAYER NEURAL NETWORK.
-  VIII.	SIGNIFICANCE OF HIDDEN LAYER.  
-  IX.	MULTILAYER PERCEPTRON LEARNING ALGORITHM.  
-  X.	LOGIC GATE IMPLEMENTATION WITH ANN (NOT, AND, OR, XOR, XNOR). 
-  XI.	BACKPROPAGATION LEARNING ALGORITHM.  
-  XII.	DEEP NEURAL NETWORK INTRODUCTION.  
-  XIII.	CONVOLUTIONAL NEURAL NETWORK.  
-  XIV.	RECURRENT NEURAL NETWORK AND LONG SHORT-TERM MOMORY.
+_      I.	STRUCTURE OF HUMAN NEURON.  
+      II.	HOW ANN CAN MIMIC A SINGLE HUMAN NEURON.  
+      III.	MACCULLOCH AND PITTS MODEL OF A SINGLE NEURON.  
+      IV.	PERCEPTRON MODEL OF A SINGLE NEURON.  
+      V.	SINGLE NEURON PERCEPTRON LEARNING ALGORITHM. 
+      VI.	PERCEPTRON ACTIVATION FUNCTIONS. 
+      VII.	SINGLE AND MULTILAYER NEURAL NETWORK.
+      VIII.	SIGNIFICANCE OF HIDDEN LAYER.  
+      IX.	MULTILAYER PERCEPTRON LEARNING ALGORITHM.  
+      X.	LOGIC GATE IMPLEMENTATION WITH ANN (NOT, AND, OR, XOR, XNOR). 
+      XI.	BACKPROPAGATION LEARNING ALGORITHM.  
+      XII.	DEEP NEURAL NETWORK INTRODUCTION.  
+      XIII.	CONVOLUTIONAL NEURAL NETWORK.  
+      XIV.	RECURRENT NEURAL NETWORK AND LONG SHORT-TERM MOMORY._
   
 19.	PRINCIPLE COMPONENT ANALYSIS.
 20.	ROC AND AUC.
